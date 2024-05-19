@@ -1,0 +1,9 @@
+Навыки, которые будут изучены на курсе:
+
+	1. Git
+	2. JavaScript
+	3. TypeScript
+	4. Тестирование API
+	5. Тестирование UI с Selenium(WebdriverIO)
+	6. Тестирование UI и API с Playwright
+	7. Интеграция с CI/CD
